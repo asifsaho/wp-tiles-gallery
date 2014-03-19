@@ -7,5 +7,5 @@ Multiple gallery creation is allowed, just create category as multiple gallery I
 
 Shortcode
 ---------
-Mainly the shortcode is '[tiles]'
-Shortcode support category paramiter like this '[tiles category="one"]'
+[tiles]
+[tiles category="one"]
